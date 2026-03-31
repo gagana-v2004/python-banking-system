@@ -1,2 +1,2 @@
-gagana,1234,5000.0
+gagana,1234,5000
 user2,abcd,3000
